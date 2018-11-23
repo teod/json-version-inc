@@ -2,4 +2,4 @@
 
 const lib = require('../lib/index.js')
 
-lib.inrement()
+lib.increment()
