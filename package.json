@@ -1,0 +1,27 @@
+{
+  "name": "json-version-inc",
+  "version": "1.0.0",
+  "description": "Increments a version field property in a json file and rewrites the original file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teod/json-version-inc.git"
+  },
+  "keywords": [
+    "json",
+    "increment",
+    "version"
+  ],
+  "author": "Teodor Druta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/teod/json-version-inc/issues"
+  },
+  "homepage": "https://github.com/teod/json-version-inc#readme",
+  "dependencies": {
+    "minimist": "^1.2.0"
+  }
+}
